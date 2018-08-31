@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_special_pie_special_pie,special_pie.special_pie,model_special_pie_special_pie,,1,0,0,0
